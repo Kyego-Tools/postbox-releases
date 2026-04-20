@@ -1,0 +1,17 @@
+[
+  {
+    "version": "0.1.0",
+    "date": "2026-04-19",
+    "title": "Initial Release",
+    "changes": [
+      { "type": "feat", "text": "Multi-platform scheduling — Facebook, Instagram, TikTok, Twitter/X, Threads" },
+      { "type": "feat", "text": "Teams & role-based access (admin, full access, approval required)" },
+      { "type": "feat", "text": "Post approval workflow with scheduling enforcement" },
+      { "type": "feat", "text": "Drafts with pending approvals merged into a single tabbed view" },
+      { "type": "feat", "text": "Analytics dashboard with per-platform insights" },
+      { "type": "feat", "text": "Media library with image and video upload on convex" },
+      { "type": "feat", "text": "Posting streak tracker including platform-native posts" },
+      { "type": "feat", "text": "Self-hosted via Docker with automated Convex deployment on first run" }
+    ]
+  }
+]
