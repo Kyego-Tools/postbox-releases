@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_ORG/postbox-releases/main/banner.png" alt="PostBox" width="600" />
+  <img src="https://github.com/user-attachments/assets/caa53d26-a532-43cc-897d-1e17e88fa15f" alt="PostBox" width="200" />
 </p>
 
 <h1 align="center">PostBox</h1>
@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_ORG/postbox-releases/releases"><img src="https://img.shields.io/github/v/release/YOUR_ORG/postbox-releases?label=latest&color=7C3AED" alt="Latest Release" /></a>
   <img src="https://img.shields.io/badge/self--hosted-Docker-2496ED?logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/backend-Convex-EE342F" alt="Convex" />
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License" />
